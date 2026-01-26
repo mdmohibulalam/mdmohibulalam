@@ -143,11 +143,14 @@ Alongside my professional role, I am actively building my career as a **Data Sci
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmohibulalam&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohibulalam&layout=compact&theme=tokyonight" height="180" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdmohibulalam&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohibulalam&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
 </div>
 
 ---
