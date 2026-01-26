@@ -1,4 +1,4 @@
-# Hi there, I'm MD. Mohibul Alam 👋
+# Hi there, I'm Md. Mohibul Alam 👋
 ### Customer Support Manager (Technical) | PHP–Laravel (Hands-on) | Aspiring Data Scientist & Machine Learning Practitioner
 
 From **Rajshahi, Bangladesh** 🇧🇩, I am a data-driven professional with over **5 years of experience** across technical customer support, backend web development, and applied data science.
