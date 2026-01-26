@@ -1,79 +1,110 @@
-## Hi there 👋
-
-<!--
-**mdmohibulalam/mdmohibulalam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there, I'm MD. Mohibul Alam 👋
-### Data Scientist | Statistician | Machine Learning Practitioner
+### Customer Support Manager (Technical) | PHP–Laravel (Hands-on) | Aspiring Data Scientist & Machine Learning Practitioner
 
-From **Rajshahi, Bangladesh** 🇧🇩, I am a proven Data Scientist with over **5 years of experience** in Python, machine learning, and statistical analysis. I hold a **Master of Science in Statistics** and specialize in developing AI-driven solutions to address complex business challenges.
+From **Rajshahi, Bangladesh** 🇧🇩, I am a data-driven professional with over **5 years of experience** across technical customer support, backend web development, and applied data science.
 
-Currently, I bridge the gap between complex data and actionable decision-making, with experience ranging from **Tech Solutions** to **ESG Research** in Switzerland (Remote).
+I hold a **Master of Science (M.Sc.) in Statistics** with a strong foundation in statistical modeling, machine learning, and data analysis. Currently, I work as a **Customer Support Manager (Technical Focus)**, where I support **VPS and RDP environments**, troubleshoot server-related issues, and contribute to backend development using **PHP (Laravel)** and database systems.
+
+Alongside my professional role, I am actively building my career as a **Data Scientist and Machine Learning Practitioner**, combining statistics, Python, and real-world projects to solve meaningful business problems.
+
+---
+
+## 🔭 Currently Working On
+- Backend development using **PHP (Laravel)** and **MySQL**
+- Developing and maintaining a live **.bd domain selling platform**
+- Supporting production systems using **VPS & RDP**
+- Building machine learning projects using **Python** and **TensorFlow**
+- Strengthening statistical modeling skills based on my **M.Sc in Statistics**
 
 ---
 
 ## 🛠️ Technical Skills
 
-**💻 Programming & AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat&logo=numpy&logoColor=white)
+**Programming & Backend Development**  
+- Python (Pandas, NumPy, Scikit-learn, TensorFlow)  
+- PHP (Laravel), SQL  
 
-**📊 Data Visualization & Analysis**
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat&logo=python&logoColor=white)
+**Web & API Development**  
+- Laravel MVC Architecture, REST APIs  
+- Authentication, CRUD Operations, Eloquent ORM  
+- Tailwind CSS, HTML  
 
-**🗄️ Databases & Cloud**
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+**Machine Learning & Analytics**  
+- Classification, Regression, Time-Series Analysis  
+- Feature Engineering, Model Evaluation  
+
+**Data Visualization & BI**  
+- Tableau, Power BI, Matplotlib, Seaborn, Plotly  
+
+**Databases & Cloud**  
+- MySQL, Microsoft SQL Server, MongoDB  
+- Microsoft Azure  
+
+**Infrastructure & Tools**  
+- VPS, RDP, Git, GitHub  
+
+**Methodologies & Soft Skills**  
+- Agile, Scrum  
+- Customer Relationship Management  
+- Problem-Solving & Stakeholder Communication  
 
 ---
 
-## 🚀 Key Projects
+## 🚀 Projects
 
-### 🪐 SpaceX Falcon 9 Landing Prediction
-*   **Goal:** Predict the success of the Falcon 9 first-stage landing.
-*   **Tech:** Python, Scikit-learn, Pandas.
-*   **Result:** Achieved **85% accuracy** using classification algorithms and presented insights to simulated stakeholders.
+### 🌐 Domain Selling Website (.bd Domains)
+🔗 Live: https://getyour.com.bd/
+
+- Developed and maintained a live domain-selling web application using **PHP (Laravel)**, **MySQL**, and **Tailwind CSS**
+- Implemented backend features following **Laravel MVC architecture**, including dynamic domain listings
+- Deployed and supported the application in a production environment focusing on performance and reliability
+
+---
+
+### 🤖 Spaceship Titanic Dataset with TensorFlow
+🔗 Kaggle: https://www.kaggle.com/code/mohibulhimu/spaceship-titanic-dataset-with-tensorflow-decision
+
+- Built a machine learning classification model using **TensorFlow**
+- Performed data preprocessing, feature engineering, and model evaluation
+- Analyzed key features influencing prediction outcomes
+
+---
+
+### 🪐 SpaceX Falcon 9 First Stage Landing Prediction
+- Built a classification model using **Scikit-learn** and **Pandas**
+- Achieved **85% prediction accuracy** for landing success
+- Presented insights to simulated stakeholders for data-driven decision-making
+
+---
 
 ### 📈 Extracting and Visualizing Stock Data
-*   **Goal:** Automate data extraction for Tesla and GameStop financial analysis.
-*   **Tech:** yfinance, BeautifulSoup, Plotly.
-*   **Result:** Built interactive dashboards that enabled **15% faster trend analysis** and reduced processing time by **20%**.
+- Extracted Tesla and GameStop stock data using **yfinance** and **BeautifulSoup**
+- Built interactive dashboards using **Plotly**
+- Reduced data processing time by **20%** through automation
 
 ---
 
-## 📜 Certifications
-*   🎓 **IBM Data Science Professional Certificate (V2)** | *Coursera (Dec 2023)*
-*   🎓 **Google Data Analytics Specialization** | *Coursera (Nov 2022)*
-*   🎓 **Python for Everybody Specialization** | *University of Michigan (Aug 2021)*
-
----
-
-## 💼 Professional Experience Highlights
-*   **Customer Support Manager** @ *ASTGD (Tech Solutions)*: Improved customer retention by 15% and reduced issue resolution time by 20%.
-*   **IT & Data Science Specialist** @ *WA Veritas Ltd (Zurich/Remote)*: Managed Azure databases improving query efficiency by 30% and supported predictive modeling efforts.
+## 🎓 Certifications
+- IBM Data Science Professional Certificate (V2) – Coursera  
+- Google Data Analytics Specialization – Coursera  
+- Python for Everybody – University of Michigan  
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdmohibulalam&show_icons=true&theme=radical" height="180" alt="Mohibul's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohibulalam&layout=compact&theme=radical" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mdmohibulalam&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdmohibulalam&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 ---
 
 ## 🌐 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/mohibulalam  
+- 🧠 Kaggle: https://www.kaggle.com/mohibulhimu  
+- 📧 Email: mohibul718@gmail.com  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/mohibulalam)
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:mohibul718@gmail.com)
+---
+
+⭐ I am open to **PHP–Laravel Developer**, **Data Analyst**, and **Junior Data Scientist / Machine Learning** opportunities, including **remote roles**.
