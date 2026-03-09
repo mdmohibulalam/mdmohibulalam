@@ -11,9 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Views&color=f59e0b&style=flat" alt="profile views"/>
 </p>
 
-### Customer Support Manager (Technical) with hands-on experience in VPS/RDP operations, Laravel backend development, and statistics-driven data projects.
+### Customer Support Manager (Technical) with hands-on experience in VPS/RDP operations, Laravel backend development and statistics-driven data projects.
 
-From **Rajshahi, Bangladesh 🇧🇩**, I bring **5+ years of experience** across **technical support, backend problem-solving, and applied analytics**. My background in **Statistics (M.Sc.)** helps me approach systems, data, and business problems with both practical troubleshooting skills and analytical thinking.
+From **Rajshahi, Bangladesh 🇧🇩**, I bring **5+ years of experience** across **technical support, backend problem-solving and applied analytics**. My background in **Statistics (M.Sc.)** helps me approach systems, data and business problems with both practical troubleshooting skills and analytical thinking.
 
 I enjoy working where **support, backend systems, and data** meet: understanding real user problems, improving workflows, and building solutions that are useful in production.
 
@@ -80,7 +80,7 @@ I enjoy working where **support, backend systems, and data** meet: understanding
 ## Backend and Development
 
 - **PHP**, **Laravel**, **MySQL**, **SQL**
-- **REST APIs**, **CRUD applications**, **Authentication systems**, **Eloquent ORM**
+- **REST APIs**, **CRUD applications**, **Authentication systems**
 - **HTML**, **Tailwind CSS**
 
 ## Data and Machine Learning
