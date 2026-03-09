@@ -98,9 +98,9 @@ I enjoy working where **support, backend systems, and data** meet: understanding
 
 # Certifications
 
-- IBM Data Science Professional Certificate — Coursera
-- Google Data Analytics Specialization — Coursera
-- Python for Everybody — University of Michigan
+- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/SPYLGQCPW5HB) — Coursera
+- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/TE9582LZU3GT) — Coursera
+- [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/BHSF87RCZNTP) — University of Michigan
 
 ---
 
