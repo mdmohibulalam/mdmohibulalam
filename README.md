@@ -145,13 +145,9 @@ PHP (Laravel) • SQL
 
 ---
 
-# 📊 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
-
-<img height="170" src="./profile/stats.svg" alt="Mohibul Alam's GitHub stats"/>
-
-<img height="170" src="./profile/top-langs.svg" alt="Mohibul Alam's top languages"/>
 
 <img height="170" src="https://streak-stats.demolab.com?user=mdmohibulalam&theme=tokyonight&hide_border=true"/>
 
