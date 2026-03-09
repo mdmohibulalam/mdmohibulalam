@@ -8,6 +8,12 @@
 <img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Views&color=f59e0b&style=flat" alt="profile views"/>
 </p>
 
+<p align="center">
+<a href="https://linkedin.com/in/mohibulalam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/mohibulhimu"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+<a href="mailto:mohibul718@gmail.com"><img src="https://img.shields.io/badge/Email-F59E0B?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
+
 ### Customer Support Manager (Technical) | PHP–Laravel | Data Science & Machine Learning Enthusiast
 
 From **Rajshahi, Bangladesh 🇧🇩**, I am a data-driven professional with **5+ years of experience** across **technical customer support, backend web development, and applied data science**.
