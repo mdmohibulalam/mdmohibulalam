@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Views&color=f59e0b&style=flat" alt="profile views"/>
 </p>
 
 ### Customer Support Manager (Technical) | PHP–Laravel | Data Science & Machine Learning Enthusiast
