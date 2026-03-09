@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Mohibul Alam 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=PHP%20Laravel%20Developer;Customer%20Support%20Manager%20(Technical);Data%20Science%20Enthusiast;Machine%20Learning%20Practitioner;Statistics%20Graduate&center=true&width=600&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Technical%20Support%20%26%20Backend%20Systems;PHP%20Laravel%20Developer;Statistics%20Graduate;Data%20Science%20Practitioner&center=true&width=700&height=45">
 </p>
 
 <p align="center">
@@ -11,178 +11,118 @@
 <img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Views&color=f59e0b&style=flat" alt="profile views"/>
 </p>
 
+### Customer Support Manager (Technical) with hands-on experience in VPS/RDP operations, Laravel backend development, and statistics-driven data projects.
 
-### Customer Support Manager (Technical) | PHP–Laravel | Data Science & Machine Learning Enthusiast
+From **Rajshahi, Bangladesh 🇧🇩**, I bring **5+ years of experience** across **technical support, backend problem-solving, and applied analytics**. My background in **Statistics (M.Sc.)** helps me approach systems, data, and business problems with both practical troubleshooting skills and analytical thinking.
 
-From **Rajshahi, Bangladesh 🇧🇩**, I am a data-driven professional with **5+ years of experience** across **technical customer support, backend web development, and applied data science**.
-
-I hold a **Master of Science (M.Sc.) in Statistics**, with a strong foundation in **statistical modeling, machine learning, and data analysis**.
-
-Currently working as a **Customer Support Manager (Technical Focus)** where I:
-
-- Support **VPS & RDP infrastructure**
-- Troubleshoot **server and backend issues**
-- Contribute to backend development using **PHP (Laravel)** and **MySQL**
-
-Alongside my professional role, I am actively building my career as a **Data Scientist & Machine Learning Practitioner**, combining **statistics, Python, and real-world datasets** to solve business problems.
+I enjoy working where **support, backend systems, and data** meet: understanding real user problems, improving workflows, and building solutions that are useful in production.
 
 ---
 
-# 🚀 Currently Working On
+# What Makes Me Different
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![VPS](https://img.shields.io/badge/VPS-000000?style=flat&logo=linux&logoColor=white)
-![RDP](https://img.shields.io/badge/RDP-0078D4?style=flat&logo=microsoft&logoColor=white)
-
-- Backend development using **PHP (Laravel)** and **MySQL**
-- Developing a live **.bd domain selling platform**
-- Supporting **production systems (VPS & RDP environments)**
-- Building **machine learning projects with Python & TensorFlow**
-- Applying **statistical modeling from my M.Sc in Statistics**
+- I understand real customer and infrastructure issues before writing code.
+- I can move from **support troubleshooting** to **backend fixes** when a problem needs both.
+- I use my **statistics foundation** to approach analytics and machine learning with structure, not just tutorials.
+- I am building toward roles where **backend systems, operations, and data-driven decision making** come together.
 
 ---
 
-# 🛠 Technical Skills
+# Current Focus
 
-## 💻 Programming & Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=database&logoColor=white)
-
-Python • Pandas • NumPy • Scikit-learn • TensorFlow  
-PHP (Laravel) • SQL
+- Building backend solutions with **PHP (Laravel)** and **MySQL**
+- Supporting **production environments**, especially **VPS** and **RDP** systems
+- Strengthening my **data science and machine learning** portfolio with practical projects
+- Applying **statistical modeling** to real-world datasets and business questions
 
 ---
 
-## 🌐 Web & API Development
+# Selected Projects
 
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+## Domain Selling Platform (.bd Domains)
 
-- Laravel MVC Architecture  
-- REST APIs  
-- Authentication Systems  
-- CRUD Applications  
-- Eloquent ORM  
-- Tailwind CSS & HTML
+[Visit live site](https://getyour.com.bd/)
+
+- Built a live platform for **.bd domain sales** using **Laravel MVC architecture**
+- Worked on backend structure, dynamic listings, and production-focused improvements
+- Combined practical business needs with backend implementation
 
 ---
 
-## 🤖 Machine Learning & Analytics
+## Spaceship Titanic ML Model
 
-![ML](https://img.shields.io/badge/Machine_Learning-102230?style=flat)
-![Statistics](https://img.shields.io/badge/Statistics-4CAF50?style=flat)
+[View Kaggle notebook](https://www.kaggle.com/code/mohibulhimu/spaceship-titanic-dataset-with-tensorflow-decision)
 
-- Classification  
-- Regression  
-- Time Series Analysis  
-- Feature Engineering  
-- Model Evaluation
+- Built a **classification model** using **TensorFlow**
+- Performed data preprocessing, feature engineering, and evaluation
+- Focused on turning raw competition data into a structured ML workflow
 
 ---
 
-## 📊 Data Visualization
+## SpaceX Falcon 9 Landing Prediction
 
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat)
-![Seaborn](https://img.shields.io/badge/Seaborn-2C2D72?style=flat)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 Domain Selling Website (.bd Domains)
-
-🔗 https://getyour.com.bd/
-
-- Developed a **domain-selling platform for .bd domains**
-- Built using **Laravel MVC architecture**
-- Implemented dynamic domain listings
-- Optimized production performance
-
----
-
-## 🤖 Spaceship Titanic ML Model
-
-🔗 https://www.kaggle.com/code/mohibulhimu/spaceship-titanic-dataset-with-tensorflow-decision
-
-- Machine learning classification model using **TensorFlow**
-- Data preprocessing and feature engineering
-- Model evaluation and feature importance analysis
-
----
-
-## 🪐 SpaceX Falcon 9 Landing Prediction
-
-- Built classification model using **Scikit-learn**
+- Built a classification model using **Scikit-learn**
 - Achieved **85% prediction accuracy**
-- Used **Pandas & feature engineering**
+- Used **Pandas**, preprocessing, and feature engineering to improve prediction quality
 
 ---
 
-## 📈 Stock Data Visualization
+## Stock Data Visualization
 
-- Extracted Tesla & GameStop data using **yfinance**
-- Built dashboards with **Plotly**
-- Automated data processing pipeline
-
----
-
-# 🎓 Certifications
-
-- IBM Data Science Professional Certificate — Coursera  
-- Google Data Analytics Specialization — Coursera  
-- Python for Everybody — University of Michigan  
+- Extracted Tesla and GameStop data using **yfinance**
+- Created visual dashboards with **Plotly**
+- Automated a simple workflow for data extraction, cleaning, and visualization
 
 ---
 
-# 📈 GitHub Activity
+# Technical Toolkit
+
+## Backend and Development
+
+- **PHP**, **Laravel**, **MySQL**, **SQL**
+- **REST APIs**, **CRUD applications**, **Authentication systems**, **Eloquent ORM**
+- **HTML**, **Tailwind CSS**
+
+## Data and Machine Learning
+
+- **Python**, **Pandas**, **NumPy**
+- **Scikit-learn**, **TensorFlow**
+- **Classification**, **Regression**, **Time Series Analysis**, **Feature Engineering**, **Model Evaluation**
+
+## Infrastructure and Visualization
+
+- **VPS support**, **RDP troubleshooting**, backend issue diagnosis
+- **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**
+
+---
+
+# Certifications
+
+- IBM Data Science Professional Certificate — Coursera
+- Google Data Analytics Specialization — Coursera
+- Python for Everybody — University of Michigan
+
+---
+
+# GitHub Activity
 
 <div align="center">
-
 <img height="170" src="https://streak-stats.demolab.com?user=mdmohibulalam&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 [![Mohibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmohibulalam&theme=tokyo-night)](https://github.com/mdmohibulalam)
 
 ---
 
-# 🌐 Connect With Me
+I am open to opportunities in:
 
-💼 LinkedIn  
-https://linkedin.com/in/mohibulalam  
-
-🧠 Kaggle  
-https://www.kaggle.com/mohibulhimu  
-
-📧 Email  
-mohibul718@gmail.com  
-
----
-
-⭐ I am open to opportunities as:
-
-- PHP Laravel Developer  
-- Data Analyst  
-- Junior Data Scientist  
-- Machine Learning Engineer (Entry Level)  
+- PHP Laravel Development
+- Data Analysis
+- Junior Data Science and Machine Learning roles
+- Technical support roles with backend or systems focus
 
 Remote roles are welcome.
