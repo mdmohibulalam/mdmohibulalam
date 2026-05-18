@@ -1,7 +1,7 @@
 # Hi there, I'm Md. Mohibul Alam 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Technical%20Support%20%26%20Backend%20Systems;PHP%20Laravel%20Developer;Statistics%20Graduate;Data%20Science%20Practitioner&center=true&width=700&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Backend%20Engineer;PHP%20Laravel%20Architect;M.Sc.%20Statistician;Data%20Science%20Specialist&center=true&width=700&height=45">
 </p>
 
 <p align="center">
@@ -11,118 +11,82 @@
 <img src="https://komarev.com/ghpvc/?username=mdmohibulalam&label=Views&color=f59e0b&style=flat" alt="profile views"/>
 </p>
 
-### Customer Support Manager (Technical) with hands-on experience in VPS/RDP operations, Laravel backend development and statistics-driven data projects.
+### Senior Web Developer & Statistician (M.Sc.) | Specializing in Scalable Backend Architecture and Data-Driven Software Solutions.
 
-From **Rajshahi, Bangladesh 🇧🇩**, I bring **5+ years of experience** across **technical support, backend problem-solving and applied analytics**. My background in **Statistics (M.Sc.)** helps me approach systems, data and business problems with both practical troubleshooting skills and analytical thinking.
+Based in **Rajshahi, Bangladesh 🇧🇩**, I bring **5+ years of professional experience** in engineering high-performance systems. I bridge the gap between **software architecture and advanced statistical analysis**, leveraging my **M.Sc. in Statistics** to build intelligent, scalable, and data-backed applications.
 
-I enjoy working where **support, backend systems, and data** meet: understanding real user problems, improving workflows, and building solutions that are useful in production.
-
----
-
-# What Makes Me Different
-
-- I understand real customer and infrastructure issues before writing code.
-- I can move from **support troubleshooting** to **backend fixes** when a problem needs both.
-- I use my **statistics foundation** to approach analytics and machine learning with structure, not just tutorials.
-- I am building toward roles where **backend systems, operations, and data-driven decision making** come together.
+I specialize in the **PHP/Laravel ecosystem**, focusing on backend optimization, secure API design, and production-grade infrastructure management.
 
 ---
 
-# Current Focus
+# 🚀 The Senior Edge
 
-- Building backend solutions with **PHP (Laravel)** and **MySQL**
-- Supporting **production environments**, especially **VPS** and **RDP** systems
-- Strengthening my **data science and machine learning** portfolio with practical projects
-- Applying **statistical modeling** to real-world datasets and business questions
-
----
-
-# Selected Projects
-
-## Domain Selling Platform (.bd Domains)
-
-[Visit live site](https://getyour.com.bd/)
-
-- Built a live platform for **.bd domain sales** using **Laravel MVC architecture**
-- Worked on backend structure, dynamic listings, and production-focused improvements
-- Combined practical business needs with backend implementation
+- **System Architecture:** I don't just write code; I architect scalable backend systems with a focus on performance and security.
+- **Statistical Mastery:** My M.Sc. in Statistics allows me to implement advanced ML models and data-driven logic that standard developers cannot.
+- **Infrastructure & Ops:** Deep hands-on experience in managing **VPS/RDP** production environments and optimizing **MySQL** database performance.
+- **Leadership & Mentorship:** Experienced in leading technical initiatives and mentoring teams to maintain high-quality code standards.
 
 ---
 
-## Spaceship Titanic ML Model
+# 🛠 Technical Toolkit
 
-[View Kaggle notebook](https://www.kaggle.com/code/mohibulhimu/spaceship-titanic-dataset-with-tensorflow-decision)
+### **Backend & Engineering**
+- **Core:** PHP 8.x (Laravel Specialist), Python, SQL
+- **Architecture:** MVC, RESTful APIs, Eloquent ORM, Authentication (Sanctum/Passport), System Optimization
+- **Database:** MySQL, MS SQL Server, MongoDB, Query Tuning & Optimization
 
-- Built a **classification model** using **TensorFlow**
-- Performed data preprocessing, feature engineering, and evaluation
-- Focused on turning raw competition data into a structured ML workflow
+### **Data Science & AI**
+- **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow
+- **Analytics:** Statistical Modeling, Classification, Regression, Time Series Analysis, Feature Engineering
+- **Visualization:** Tableau, Power BI, Matplotlib, Seaborn, Plotly
 
----
-
-## SpaceX Falcon 9 Landing Prediction
-
-- Built a classification model using **Scikit-learn**
-- Achieved **85% prediction accuracy**
-- Used **Pandas**, preprocessing, and feature engineering to improve prediction quality
-
----
-
-## Stock Data Visualization
-
-- Extracted Tesla and GameStop data using **yfinance**
-- Created visual dashboards with **Plotly**
-- Automated a simple workflow for data extraction, cleaning, and visualization
+### **Infrastructure & Tools**
+- **Cloud/Servers:** VPS Management, RDP Troubleshooting, Azure, Server Security
+- **Workflow:** Git, GitHub, Agile/Scrum, CI/CD Principles
 
 ---
 
-# Technical Toolkit
+# 📂 Featured Projects
 
-## Backend and Development
+## [Domain Selling Platform (.bd Domains)](https://getyour.com.bd/)
+- **Role:** Senior Lead Developer
+- **Stack:** Laravel MVC, MySQL, Tailwind CSS
+- **Impact:** Built a live production platform for domain sales, focusing on automated registration workflows and scalable backend architecture.
 
-- **PHP**, **Laravel**, **MySQL**, **SQL**
-- **REST APIs**, **CRUD applications**, **Authentication systems**
-- **HTML**, **Tailwind CSS**
+## [Spaceship Titanic ML Model](https://www.kaggle.com/code/mohibulhimu/spaceship-titanic-dataset-with-tensorflow-decision)
+- **Role:** Data Scientist
+- **Stack:** Python, TensorFlow, Kaggle
+- **Impact:** Engineered a classification model with advanced data preprocessing and statistical evaluation to predict high-accuracy outcomes.
 
-## Data and Machine Learning
-
-- **Python**, **Pandas**, **NumPy**
-- **Scikit-learn**, **TensorFlow**
-- **Classification**, **Regression**, **Time Series Analysis**, **Feature Engineering**, **Model Evaluation**
-
-## Infrastructure and Visualization
-
-- **VPS support**, **RDP troubleshooting**, backend issue diagnosis
-- **Tableau**, **Power BI**, **Matplotlib**, **Seaborn**, **Plotly**
+## [SpaceX Falcon 9 Landing Prediction](https://github.com/mdmohibulalam)
+- **Role:** ML Engineer
+- **Stack:** Scikit-learn, Pandas, Python
+- **Impact:** Achieved **85% prediction accuracy** using rigorous feature engineering and cross-validation techniques.
 
 ---
 
-# Certifications
+# 🏆 Certifications
 
-- [IBM Data Science Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/SPYLGQCPW5HB) — Coursera
-- [Google Data Analytics Specialization](https://www.coursera.org/account/accomplishments/professional-cert/TE9582LZU3GT) — Coursera
-- [Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/BHSF87RCZNTP) — University of Michigan
+- **IBM Data Science Professional Certificate** — Coursera
+- **Google Data Analytics Specialization** — Coursera
+- **Python for Everybody** — University of Michigan
 
 ---
 
-# GitHub Activity
+# 📈 GitHub Activity
 
 <div align="center">
 <img height="170" src="https://streak-stats.demolab.com?user=mdmohibulalam&theme=tokyonight&hide_border=true"/>
 </div>
 
----
-
-# Contribution Graph
-
 [![Mohibul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mdmohibulalam&theme=tokyo-night)](https://github.com/mdmohibulalam)
 
 ---
 
-I am open to opportunities in:
+I am currently open to high-impact opportunities in:
+- **Senior Backend Engineering (PHP/Laravel)**
+- **Data Engineering & Analytics**
+- **Backend Architecture & System Strategy**
 
-- PHP Laravel Development
-- Data Analysis
-- Junior Data Science and Machine Learning roles
-- Technical support roles with backend or systems focus
-
-Remote roles are welcome.
+📧 **Email:** [mohibul718@gmail.com](mailto:mohibul718@gmail.com)  
+🌍 **Relocation:** Open to global opportunities (EU/Germany/Netherlands/UAE)
